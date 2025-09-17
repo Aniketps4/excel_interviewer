@@ -18,7 +18,7 @@ Streamlit Community Cloud Account: Sign up at share.streamlit.io with GitHub.
 
 
 Usage
-Open the deployed URL or local app (http://localhost:8501).
+Open the deployed URL app (https://excelinterviewer-o6dpiudvbaigf4ik5mdkmt.streamlit.app/).
 Type start to begin.
 Answer 5 Excel questions (e.g., VLOOKUP, PivotTables).
 Receive real-time evaluations and a final performance report.
